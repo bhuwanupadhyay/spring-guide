@@ -1,0 +1,6 @@
+[
+  {
+    "path": "/api/demos",
+    "target": "http://localhost:8081"
+  }
+]
