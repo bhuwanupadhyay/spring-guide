@@ -4,21 +4,19 @@ paginate: true
 footer: © Bhuwan Prasad Updhyay [https://bhuwanupadhyay.github.io/]
 -->
 
-# Blog Article Code Template
+# Spring Guide
 
 **Tags:**
 
-- Github
+- Spring Framework
+- Spring Boot
+- Spring Data
+- Spring Cloud
+- Spring Native
 
 ---
 
 ## Background
-
----
-
-## System Design
-
-![](system-design.png)
 
 ---
 
